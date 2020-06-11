@@ -1,0 +1,7 @@
+{
+  "name": "ionic-react-cypress-4.8-hang",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
