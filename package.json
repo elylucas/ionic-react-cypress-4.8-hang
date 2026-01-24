@@ -46,7 +46,7 @@
   },
   "devDependencies": {
     "@capacitor/cli": "2.2.0",
-    "cypress": "^4.8.0"
+    "cypress": "^4.12.1"
   },
   "description": "An Ionic project"
 }
